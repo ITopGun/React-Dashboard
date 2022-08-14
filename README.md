@@ -77,7 +77,6 @@ For more info please refer to [getting started](./docs/getting-started.md) guide
 - Star our GitHub repo :star:
 - Create pull requests, submit bugs, suggest new features or documentation updates :wrench:
 - Follow [@ITopGun on Github](https://github.com/ITopGun).
-- Like our page on [Facebook](https://www.facebook.com/flatlogic/) :thumbsup:
 
 ## Premium themes
 Looking for premium themes and templates? Check out more [admin dashboard templates at flatlogic.com](https://flatlogic.com/admin-dashboards).
