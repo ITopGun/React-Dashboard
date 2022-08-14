@@ -78,7 +78,7 @@ For more info please refer to [getting started](./docs/getting-started.md) guide
 - Create pull requests, submit bugs, suggest new features or documentation updates :wrench:
 - Follow [@ITopGun on Github](https://github.com/ITopGun).
 
-## Premium themes
+## More from ITopGun
 Looking for premium themes and templates? Check out more [admin dashboard templates at flatlogic.com](https://flatlogic.com/admin-dashboards).
 
 ## License
