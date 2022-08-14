@@ -84,4 +84,4 @@ For more info please refer to [getting started](./docs/getting-started.md) guide
 
 ## License
 
-[MIT](https://github.com/flatlogic/react-dashboard/blob/master/LICENSE.txt) and another [MIT](https://github.com/flatlogic/react-dashboard/blob/master/LICENSE-react-starter-kit.txt) from RSK.
+
