@@ -3,8 +3,6 @@ built with [React](https://facebook.github.io/react/), [Bootstrap](http://getboo
 [Redux](http://redux.js.org/) and [GraphQL](http://graphql.org/) based on
 [Create React App](https://github.com/facebook/create-react-app) and latest industry best practices.
 
-[View Demo](https://flatlogic.com/admin-dashboards/react-dashboard/demo) | [Download](https://github.com/flatlogic/react-dashboard.git) | [More templates](https://flatlogic.com/templates) | [Support forum](https://flatlogic.com/forum)
-
 [![react-dashboard](screenshot.png)](https://flatlogic.com/admin-dashboards/react-dashboard/demo)
 
 This seed project is a sort of a free version of a template that may be found on
