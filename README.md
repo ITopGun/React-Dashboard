@@ -73,9 +73,6 @@ app on the fly and refresh all the connected browsers.
 
 For more info please refer to [getting started](./docs/getting-started.md) guide to download and run the project (Node.js >= 6.5)
 
-## Support
-
-
 ## How can I support developers?
 - Star our GitHub repo :star:
 - [Tweet about it](https://twitter.com/intent/tweet?text=Amazing%20dashboard%20built%20with%20NodeJS,%20React%20and%20Bootstrap!&url=https://github.com/flatlogic/react-dashboard&via=flatlogic).
