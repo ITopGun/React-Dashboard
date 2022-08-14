@@ -74,7 +74,7 @@ app on the fly and refresh all the connected browsers.
 For more info please refer to [getting started](./docs/getting-started.md) guide to download and run the project (Node.js >= 6.5)
 
 ## Support
-For any additional information please go to our [**support forum**](https://flatlogic.com/forum) and raise your questions or feedback provide there. We highly appreciate your participation!
+
 
 ## How can I support developers?
 - Star our GitHub repo :star:
