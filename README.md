@@ -75,7 +75,6 @@ For more info please refer to [getting started](./docs/getting-started.md) guide
 
 ## How can I support developers?
 - Star our GitHub repo :star:
-- [Tweet about it](https://twitter.com/intent/tweet?text=Amazing%20dashboard%20built%20with%20NodeJS,%20React%20and%20Bootstrap!&url=https://github.com/flatlogic/react-dashboard&via=flatlogic).
 - Create pull requests, submit bugs, suggest new features or documentation updates :wrench:
 - Follow [@flatlogic on Twitter](https://twitter.com/flatlogic).
 - Subscribe to Flatlogic newsletter at [flatlogic.com](https://flatlogic.com/)
